@@ -1,0 +1,29 @@
+{
+  "id": "1722",
+  "cognome": "DE VITTORIO",
+  "nome": "ENRICO",
+  "comuneNascita": "GALLIPOLI",
+  "provinciaNascita": "LE",
+  "dataNascita": "28/10/05",
+  "capResidenza": "73011",
+  "comuneResidenza": "ALEZIO",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA San Pancrazio, 45 45",
+  "email": "evolve.dota123@gmail.com",
+  "cellulare": "366/1196320",
+  "codiceFiscale": "DVTNRC05R28D883H",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+  "emailCorso": "edevittorio@studenti.apuliadigitalmaker.it",
+  "descrizione": "Quello del Meucci, sezione B, col prof Palombo. L'ultimo giorno ha preteso di farsi puntare i fari del Vernazza addosso, solo per potersi slacciare i capelli e farci ricordare un personaggio biblico.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/devittorio.png?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Invenzione della lampadina",
+      "valore": 10
+    },
+    {
+      "nome": "Potere divino",
+      "valore": 100
+    }
+  ]
+}

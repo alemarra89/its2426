@@ -1,0 +1,33 @@
+{
+  "id": "1963",
+  "cognome": "TUNDO",
+  "nome": "JACOPO",
+  "comuneNascita": "LECCE",
+  "provinciaNascita": "LE",
+  "dataNascita": "27/10/02",
+  "capResidenza": "73013",
+  "comuneResidenza": "GALATINA",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA UDINE, 24",
+  "email": "jacopotundo@gmail.com",
+  "cellulare": "333/2658615",
+  "codiceFiscale": "TNDJCP02R27E506V",
+  "titoloStudio": "Non si sa",
+  "emailCorso": "jtundo@studenti.apuliadigitalmaker.it",
+  "descrizione": "Ha perso il quiz per un soffio, anzi per 1 punto. Lo stesso punto che giocosamente continua a perdere lezione dopo lezione. Grande impegno e determinazione, misto rabbia, lo portano a spingersi sempre oltre ad ogni esercitazione.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/tundo.png?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Meno 1 punto",
+      "valore": -1
+    },
+    {
+      "nome": "Rabbia",
+      "valore": -10
+    },
+    {
+      "nome": "Ostinazione",
+      "valore": 50
+    }
+  ]
+}

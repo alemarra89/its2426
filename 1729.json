@@ -1,0 +1,33 @@
+{
+  "id": "1729",
+  "cognome": "MAZZEO",
+  "nome": "JACOPO",
+  "comuneNascita": "LECCE",
+  "provinciaNascita": "LE",
+  "dataNascita": "31/03/04",
+  "capResidenza": "73100",
+  "comuneResidenza": "LECCE",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA Archimede, 39",
+  "email": "jacopo.mazzeo12@gmail.com",
+  "cellulare": "371/6599764",
+  "codiceFiscale": "MZZJCP04C31E506K",
+  "titoloStudio": "Diploma di istruzione secondaria superiore di Istituto magistrale",
+  "emailCorso": "jmazzeo@studenti.apuliadigitalmaker.it",
+  "descrizione": "Leccese di Lecce Lecce, adora spostarsi in macchina alla ricerca di un parcheggio che troverà solo a Frigole, dove passerà la nottata a fare soldi in compagnia dei suoi amici; purtroppo però sono i soldi finti del Monopoly.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/mazzeo.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Vittoria a Monopoly",
+      "valore": 100
+    },
+    {
+      "nome": "Bancarotta a Monopoly",
+      "valore": -100
+    },
+    {
+      "nome": "Ricerca del parcheggio",
+      "valore": -20
+    }
+  ]
+}

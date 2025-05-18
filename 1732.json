@@ -1,0 +1,29 @@
+{
+  "id": "1732",
+  "cognome": "PREITE",
+  "nome": "NICOLA ANTONIO",
+  "comuneNascita": "GERMANIA",
+  "provinciaNascita": "EE",
+  "dataNascita": "26/01/00",
+  "capResidenza": "73100",
+  "comuneResidenza": "LECCE",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA benedetto croce, 8",
+  "email": "nicola.preite@libero.it",
+  "cellulare": "324/6940463",
+  "codiceFiscale": "PRTNLN00A26Z112K",
+  "titoloStudio": "Altre lauree specialistiche/magistrali a ciclo unico",
+  "emailCorso": "npreite@studenti.apuliadigitalmaker.it",
+  "descrizione": "Le sue nobili origini germaniche si notano subito il primo giorno, quando dimostra la sua superiorità conseguendo un risultato schiacciante nel quiz. Le sue esercitazioni vanno tranquillamente in porto.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/preite.jpg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Quiz",
+      "valore": 21
+    },
+    {
+      "nome": "Tranquillità",
+      "valore": 30
+    }
+  ]
+}

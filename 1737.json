@@ -1,0 +1,29 @@
+{
+  "id": "1737",
+  "cognome": "SANTORO ARAMINI",
+  "nome": "MARCO",
+  "comuneNascita": "TRICASE",
+  "provinciaNascita": "LE",
+  "dataNascita": "26/02/03",
+  "capResidenza": "73049",
+  "comuneResidenza": "RUFFANO",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "Firenze, 29",
+  "email": "marcoqwerty321@gmail.com",
+  "cellulare": "327/6929188",
+  "codiceFiscale": "SNTMRC03B26L419U",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+  "emailCorso": "msantoroaramini@studenti.apuliadigitalmaker.it",
+  "descrizione": "No, non è un'isola greca, ma il cognome simpaticamente composto di un ragazzo che frequenta l'ITS. È collegato regolarmente su Discord, ma anziché seguire le lezioni, si gode le streammate dei suoi amici.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/santoro.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Discord",
+      "valore": -30
+    },
+    {
+      "nome": "Vacanza nel mar Egeo",
+      "valore": 20
+    }
+  ]
+}

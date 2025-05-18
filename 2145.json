@@ -1,0 +1,25 @@
+{
+  "id": "2145",
+  "cognome": "MILELLI",
+  "nome": "GABRIELE",
+  "comuneNascita": "LECCE",
+  "provinciaNascita": "LE",
+  "dataNascita": "31/01/04",
+  "capResidenza": "73055",
+  "comuneResidenza": "RACALE",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA Dora Baltea,32",
+  "email": "tighery380@gmail.com",
+  "cellulare": "324/6347793",
+  "codiceFiscale": "MLLGRL04A31E506V",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+  "emailCorso": "gmilelli@studenti.apuliadigitalmaker.it",
+  "descrizione": "La sua unica apparizione al corso è stata il primo giorno. Dicono che abbia preso male il fatto che anche il docente fosse di Racale, così ha deciso di abbandonare. Ma forse in realtà non è mai realmente esistito.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/milelli.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Invisibilità",
+      "valore": 10
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1730",
+  "cognome": "MINERVA",
+  "nome": "ANDREA",
+  "comuneNascita": "TRICASE",
+  "provinciaNascita": "LE",
+  "dataNascita": "16/06/90",
+  "capResidenza": "73039",
+  "comuneResidenza": "TRICASE",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA varisco , 5",
+  "email": "andrea.minerva90@libero.it",
+  "cellulare": "328/9003073",
+  "codiceFiscale": "MNRNDR90H16L419Q",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo professionale alberghiero/per i servizi alberghieri e della ristorazione",
+  "emailCorso": "aminerva@studenti.apuliadigitalmaker.it",
+  "descrizione": "Tricasino DOC e responsabile della gestione di diversi bar, oltre che del gruppo Discord. A proposito, di Andrea Minerva se ne sono visti veramente parecchi su quel gruppo, ma di originale, quello sempre fedele e presente, ce n'è solo uno.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/minerva.jpg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Spritz",
+      "valore": 20
+    },
+    {
+      "nome": "A ci me ne vo",
+      "valore": -20
+    },
+    {
+      "nome": "Riserva",
+      "valore": -30
+    },
+    {
+      "nome": "Fedeltà",
+      "valore": 70
+    }
+  ]
+}

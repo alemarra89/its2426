@@ -1,0 +1,41 @@
+{
+  "id": "1725",
+  "cognome": "MACAGNINO",
+  "nome": "RICCARDO",
+  "comuneNascita": "TRICASE",
+  "provinciaNascita": "LE",
+  "dataNascita": "08/09/01",
+  "capResidenza": "73040",
+  "comuneResidenza": "MELISSANO",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "Salvator Rosa, 107",
+  "email": "macagninoriccardo85@gmail.com",
+  "cellulare": "334/3706616",
+  "codiceFiscale": "MCGRCR01P08L419K",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo professionale alberghiero/per i servizi alberghieri e della ristorazione",
+  "emailCorso": "rmacagnino@studenti.apuliadigitalmaker.it",
+  "descrizione": "Frequenta l'ITS solo per copertura e lo sappiamo tutti, perché tra la 'Banda del buco' e il giro di affitti che ha a Torre San Giovanni potrebbe tranquillamente vivere di rendita. Eppure è sempre sul pezzo ed è affamato di informazioni.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/macagnino.png?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Informazione",
+      "valore": -10
+    },
+    {
+      "nome": "Colpo all'Eurospin",
+      "valore": 100
+    },
+    {
+      "nome": "Bronchite",
+      "valore": -50
+    },
+    {
+      "nome": "Copilot",
+      "valore": -20
+    },
+    {
+      "nome": "Affitto appartamento",
+      "valore": 60
+    }
+  ]
+}

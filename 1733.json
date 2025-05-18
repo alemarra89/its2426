@@ -1,0 +1,25 @@
+{
+  "id": "1733",
+  "cognome": "RISO",
+  "nome": "MARTINO",
+  "comuneNascita": "GAGLIANO DEL CAPO",
+  "provinciaNascita": "LE",
+  "dataNascita": "26/04/01",
+  "capResidenza": "73033",
+  "comuneResidenza": "CORSANO",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA GIORDANO, 29",
+  "email": "risomartino@gmail.com",
+  "cellulare": "347/3214572",
+  "codiceFiscale": "RSIMTN01D26D851H",
+  "titoloStudio": "Diploma di istruzione secondaria superiore di Liceo scientifico",
+  "emailCorso": "mriso@studenti.apuliadigitalmaker.it",
+  "descrizione": "Di lui si sa soltanto che vive a Corsano. Si è fatto vedere il primo giorno del corso, ma i problemi alla macchina gli hanno impedito di essere presente nella restante parte del corso. Sfortunato.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/riso.png?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Meccanico",
+      "valore": -30
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2155",
+  "cognome": "ZACHEO",
+  "nome": "LUCA",
+  "comuneNascita": "SCORRANO",
+  "provinciaNascita": "LE",
+  "dataNascita": "30/09/05",
+  "capResidenza": "73038",
+  "comuneResidenza": "SPONGANO",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA San Leonardo, 101",
+  "email": "lucazacheo068@gmail.com",
+  "cellulare": "340/7133419",
+  "codiceFiscale": "ZCHLCU05P30I549H",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico industriale",
+  "emailCorso": "lzacheo1@studenti.apuliadigitalmaker.it",
+  "descrizione": "Voci poco affidabili narrano che sia stato operato ad un occhio, motivo per cui ha perso le prime lezioni in presenza. Ormai abituato al dolore, affonta anche React Native e prova fino all'ultimo giorno a capirci qualcosa.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/zacheo.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Vista acuta",
+      "valore": -20
+    },
+    {
+      "nome": "Temerarietà",
+      "valore": 30
+    }
+  ]
+}

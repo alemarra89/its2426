@@ -1,0 +1,33 @@
+{
+  "id": "2250",
+  "cognome": "TONDO",
+  "nome": "SIMONE",
+  "comuneNascita": "NARDO'",
+  "provinciaNascita": "LE",
+  "dataNascita": "10/06/00",
+  "capResidenza": "73044",
+  "comuneResidenza": "GALATONE",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA STRADA FIUME 8,A",
+  "email": "tr.siminetondo@gmail.com",
+  "cellulare": "329/7166198",
+  "codiceFiscale": "TNDSMN00H10F842G",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico industriale",
+  "emailCorso": "stondo@studenti.apuliadigitalmaker.it",
+  "descrizione": "Quello palestrato di Nardò (1 punto in più), ha vecchi amici d'arte del Vernazza (1 punto in più), ma sopratutto lavora con un Mac dove tutto funziona semplicemente bene al primo tentativo (1 punto in più).",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/tondo.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Nardò",
+      "valore": 10
+    },
+    {
+      "nome": "Raccomandazione",
+      "valore": 10
+    },
+    {
+      "nome": "Mac",
+      "valore": 60
+    }
+  ]
+}

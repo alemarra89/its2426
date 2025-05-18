@@ -1,0 +1,29 @@
+{
+  "id": "1724",
+  "cognome": "GIORDANO",
+  "nome": "LORENZO",
+  "comuneNascita": "LECCE",
+  "provinciaNascita": "LE",
+  "dataNascita": "14/01/04",
+  "capResidenza": "73019",
+  "comuneResidenza": "TREPUZZI",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "Della resistenza, 15",
+  "email": "lorenzogiordano09@gmail.com",
+  "cellulare": "348/0122861",
+  "codiceFiscale": "GRDLNZ04A14E506N",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+  "emailCorso": "lgiordano@studenti.apuliadigitalmaker.it",
+  "descrizione": "Se si ha qualche difficoltà a ricordare chi è Lorenzo Giordano, è sufficiente pensare che è \"quello con la voce squillante\" e sparisce ogni dubbio. Vanta più presenze in pausa che in classe, ma la sua presenza mette sempre il buonumore.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/giordano.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Sussurro a bassa voce",
+      "valore": -20
+    },
+    {
+      "nome": "Impegno nascosto",
+      "valore": 20
+    }
+  ]
+}

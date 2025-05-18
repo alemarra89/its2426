@@ -1,0 +1,29 @@
+{
+  "id": "1727",
+  "cognome": "MANCINI",
+  "nome": "ILARIO GABRIELE",
+  "comuneNascita": "BARI",
+  "provinciaNascita": "BA",
+  "dataNascita": "20/05/99",
+  "capResidenza": "73013",
+  "comuneResidenza": "GALATINA",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "Campobasso, 16",
+  "email": "ilariomancini99@gmail.com",
+  "cellulare": "320/6365292",
+  "codiceFiscale": "MNCLGB99E20A662B",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+  "emailCorso": "imancini@studenti.apuliadigitalmaker.it",
+  "descrizione": "Ha abbandonato le desolate terre di Casamassima per dedicare tutto se stesso all'ITS. In aula dimostra di essere uno dei più tranquilli, ma sembrerebbero esserci molti colleghi pronti a vestire i panni da Fabrizio Corona per smentire la sua apparente tranquillità.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/mancini.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Fuga da casa",
+      "valore": -20
+    },
+    {
+      "nome": "Balletto nel pullman",
+      "valore": 40
+    }
+  ]
+}

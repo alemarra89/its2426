@@ -1,0 +1,29 @@
+{
+  "id": "1735",
+  "cognome": "RUSSO",
+  "nome": "JACOPO",
+  "comuneNascita": "GALATINA",
+  "provinciaNascita": "LE",
+  "dataNascita": "28/11/05",
+  "capResidenza": "73010",
+  "comuneResidenza": "SOLETO",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA Leonardo Sciascia, 7",
+  "email": "jacoporusso2811@gmail.com",
+  "cellulare": "389/5097936",
+  "codiceFiscale": "RSSJCP05S28D862J",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo professionale per il commercio/servizi commerciali, turismo e pubblicita'",
+  "emailCorso": "jrusso@studenti.apuliadigitalmaker.it",
+  "descrizione": "Aveva il primato da \"più giovane del corso\" prima del saltuario rientro di Brindisino. Si fida del suo PC personale, ma per eseguire l'app sul suo telefono deve per forza impostare il --tunnel. Squadrone 2005 insieme a Flavio.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/russo.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Tunnel",
+      "valore": -10
+    },
+    {
+      "nome": "Forza della gioventù",
+      "valore": 50
+    }
+  ]
+}

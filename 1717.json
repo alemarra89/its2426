@@ -1,0 +1,29 @@
+{
+  "id": "1717",
+  "cognome": "BRACCIALE",
+  "nome": "SAVERIO",
+  "comuneNascita": "POLONIA",
+  "provinciaNascita": "EE",
+  "dataNascita": "19/09/02",
+  "capResidenza": "73018",
+  "comuneResidenza": "SQUINZANO",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "Gennaro abbate, 41",
+  "email": "save.italia230917@gmail.com",
+  "cellulare": "388/3827347",
+  "codiceFiscale": "BRCSVR02P19Z127J",
+  "titoloStudio": "Diploma di istruzione secondaria superiore di Liceo scientifico",
+  "emailCorso": "sbracciale@studenti.apuliadigitalmaker.it",
+  "descrizione": "Passerà alla storia come colui che ha consegnato in ritardo il compito di JavaScript e questo non se lo perdonerà mai. Per addolcire la triste vicenda è costretto a prendere un dolce al giorno dal Martinucci.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/bracciale.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Consegna del compito",
+      "valore": -10
+    },
+    {
+      "nome": "Dolce al Martinucci",
+      "valore": 20
+    }
+  ]
+}

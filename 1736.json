@@ -1,0 +1,33 @@
+{
+  "id": "1736",
+  "cognome": "SABETTA",
+  "nome": "ENNIO",
+  "comuneNascita": "BRINDISI",
+  "provinciaNascita": "BR",
+  "dataNascita": "12/05/86",
+  "capResidenza": "73026",
+  "comuneResidenza": "MELENDUGNO",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "Totò Principe De Curtis, 4",
+  "email": "ennio.sabetta@gmail.com",
+  "cellulare": "320/8713183",
+  "codiceFiscale": "SBTNNE86E12B180K",
+  "titoloStudio": "Diploma di istruzione secondaria superiore di Liceo linguistico",
+  "emailCorso": "esabetta@studenti.apuliadigitalmaker.it",
+  "descrizione": "Colonna portante del Vernazza e nostalgico del retrocomputing, vive il mondo delle community portandosi a casa anche il robottino Android mini collectible messo in palio dal GDG di Lecce. Fedele fino alla fine.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/sabetta.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Fedeltà",
+      "valore": 30
+    },
+    {
+      "nome": "Robot Android",
+      "valore": 60
+    },
+    {
+      "nome": "Nostalgia",
+      "valore": -20
+    }
+  ]
+}

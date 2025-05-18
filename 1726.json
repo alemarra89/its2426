@@ -1,0 +1,29 @@
+{
+  "id": "1726",
+  "cognome": "MAGINI",
+  "nome": "MANUEL",
+  "comuneNascita": "ROMA",
+  "provinciaNascita": "RM",
+  "dataNascita": "10/03/90",
+  "capResidenza": "40135",
+  "comuneResidenza": "BOLOGNA",
+  "provinciaResidenza": "BO",
+  "indirizzoResidenza": "VIA treves, 2",
+  "email": "magini15@gmail.com",
+  "cellulare": "329/4057518",
+  "codiceFiscale": "MGNMNL90C10H501F",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+  "emailCorso": "mmagini@studenti.apuliadigitalmaker.it",
+  "descrizione": "Passare da Angular a React non è stato un gioco da ragazzi, ma da oggi può aggiungere nuove skills alla sua già ricca Vetrina Informatica. Ha già conoscenze nel giro delle community e chissà, magari da domani sarà il nostro nuovo datore di lavoro.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/magini.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Vetrina informatica",
+      "valore": 50
+    },
+    {
+      "nome": "GDG Lecce",
+      "valore": 30
+    }
+  ]
+}

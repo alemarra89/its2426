@@ -1,0 +1,29 @@
+{
+  "id": "1740",
+  "cognome": "STINCONE",
+  "nome": "FLAVIO",
+  "comuneNascita": "SCORRANO",
+  "provinciaNascita": "LE",
+  "dataNascita": "13/10/05",
+  "capResidenza": "73020",
+  "comuneResidenza": "NOCIGLIA",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "Cassino, 71",
+  "email": "flaviostincone711@gmail.com",
+  "cellulare": "342/3100847",
+  "codiceFiscale": "STNFLV05R13I549T",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo professionale per il commercio/servizi commerciali, turismo e pubblicita'",
+  "emailCorso": "fstincone@studenti.apuliadigitalmaker.it",
+  "descrizione": "Il caposquadra di \"quelli del 2005 di dietro\", dimostra più anni di quelli che ha, ma solo perché è una bestia col codice. Coraggioso nel provare a guidare la classe durante la difficile simulazione pre-esame del Pokedex.",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/stincone.jpeg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Guida",
+      "valore": 50
+    },
+    {
+      "nome": "Docenza",
+      "valore": -10
+    }
+  ]
+}

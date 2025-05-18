@@ -1,0 +1,29 @@
+{
+  "id": "1718",
+  "cognome": "BRINDISINO",
+  "nome": "ALESSANDRO",
+  "comuneNascita": "LECCE",
+  "provinciaNascita": "LE",
+  "dataNascita": "27/12/05",
+  "capResidenza": "73100",
+  "comuneResidenza": "LECCE",
+  "provinciaResidenza": "LE",
+  "indirizzoResidenza": "VIA Bruno Lucrezi,16 16",
+  "email": "alessandro.brindisino@gmail.com",
+  "cellulare": "366/2543109",
+  "codiceFiscale": "BRNLSN05T27E506O",
+  "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+  "emailCorso": "abrindisino@studenti.apuliadigitalmaker.it",
+  "descrizione": "La leggenda narra che non sia mai esistito, eppure raramente sembra essere stato avvistato tra le ignote aule del Vernazza, palesandosi soprattutto per rivendicare l'assoluto di primato di \"Più giovane dell'ITS\"",
+  "foto": "https://github.com/alemarra89/its2426/blob/main/foto/brindisino.jpg?raw=true",
+  "caratteristiche": [
+    {
+      "nome": "Presenza",
+      "valore": 0
+    },
+    {
+      "nome": "Forza della gioventù",
+      "valore": 10
+    }
+  ]
+}
