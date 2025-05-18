@@ -1,0 +1,664 @@
+[
+  {
+    "id": "1717",
+    "cognome": "BRACCIALE",
+    "nome": "SAVERIO",
+    "comuneNascita": "POLONIA",
+    "provinciaNascita": "EE",
+    "dataNascita": "19/09/02",
+    "capResidenza": "73018",
+    "comuneResidenza": "SQUINZANO",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Gennaro abbate, 41",
+    "email": "save.italia230917@gmail.com",
+    "cellulare": "388/3827347",
+    "codiceFiscale": "BRCSVR02P19Z127J",
+    "titoloStudio": "Diploma di istruzione secondaria superiore di Liceo scientifico",
+    "emailCorso": "sbracciale@studenti.apuliadigitalmaker.it",
+    "descrizione": "Passerà alla storia come colui che ha consegnato in ritardo il compito di JavaScript e questo non se lo perdonerà mai. Per addolcire la triste vicenda è costretto a prendere un dolce al giorno dal Martinucci.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/bracciale.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Consegna del compito",
+        "valore": -10
+      },
+      {
+        "nome": "Dolce al Martinucci",
+        "valore": 10
+      }
+    ]
+  },
+  {
+    "id": "1718",
+    "cognome": "BRINDISINO",
+    "nome": "ALESSANDRO",
+    "comuneNascita": "LECCE",
+    "provinciaNascita": "LE",
+    "dataNascita": "27/12/05",
+    "capResidenza": "73100",
+    "comuneResidenza": "LECCE",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA Bruno Lucrezi,16 16",
+    "email": "alessandro.brindisino@gmail.com",
+    "cellulare": "366/2543109",
+    "codiceFiscale": "BRNLSN05T27E506O",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "abrindisino@studenti.apuliadigitalmaker.it",
+    "descrizione": "La leggenda narra che non sia mai esistito, eppure raramente sembra essere stato avvistato tra le ignote aule del Vernazza, palesandosi soprattutto per rivendicare l'assoluto di primato di \"Più giovane dell'ITS\"",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/brindisino.jpg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Presenza",
+        "valore": 0
+      },
+      {
+        "nome": "Forza della gioventù",
+        "valore": 20
+      }
+    ]
+  },
+  {
+    "id": "1721",
+    "cognome": "DE LUCA",
+    "nome": "FABIO",
+    "comuneNascita": "LECCE",
+    "provinciaNascita": "LE",
+    "dataNascita": "19/10/02",
+    "capResidenza": "73019",
+    "comuneResidenza": "TREPUZZI",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Kennedy , 68",
+    "email": "fabiodeluca686@gmail.com",
+    "cellulare": "320/7910675",
+    "codiceFiscale": "DLCFBA02R19E506P",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "fdeluca@studenti.apuliadigitalmaker.it",
+    "descrizione": "'Ragazzi ma Fabio De Luca chi è? L'ho mai visto?'. 'Forse no prof, quello di Trepuzzi, tieni presente?'. 'Mmm no ragazzi, dalla foto mi sembra che ci siamo visti qualche volta, ma sicuramente è stato per sbaglio.'",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/deluca.jpg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Presenza",
+        "valore": 0
+      },
+      {
+        "nome": "Triplo comune di residenza",
+        "valore": 3
+      }
+    ]
+  },
+  {
+    "id": "1722",
+    "cognome": "DE VITTORIO",
+    "nome": "ENRICO",
+    "comuneNascita": "GALLIPOLI",
+    "provinciaNascita": "LE",
+    "dataNascita": "28/10/05",
+    "capResidenza": "73011",
+    "comuneResidenza": "ALEZIO",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA San Pancrazio, 45 45",
+    "email": "evolve.dota123@gmail.com",
+    "cellulare": "366/1196320",
+    "codiceFiscale": "DVTNRC05R28D883H",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "edevittorio@studenti.apuliadigitalmaker.it",
+    "descrizione": "Quello del Meucci, sezione B, col prof Palombo. L'ultimo giorno ha preteso di farsi puntare i fari del Vernazza addosso, solo per potersi slacciare i capelli e farci ricordare un personaggio biblico.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/devittorio.png?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Invenzione della lampadina",
+        "valore": 10
+      },
+      {
+        "nome": "Potere divino",
+        "valore": 100
+      }
+    ]
+  },
+  {
+    "id": "1724",
+    "cognome": "GIORDANO",
+    "nome": "LORENZO",
+    "comuneNascita": "LECCE",
+    "provinciaNascita": "LE",
+    "dataNascita": "14/01/04",
+    "capResidenza": "73019",
+    "comuneResidenza": "TREPUZZI",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Della resistenza, 15",
+    "email": "lorenzogiordano09@gmail.com",
+    "cellulare": "348/0122861",
+    "codiceFiscale": "GRDLNZ04A14E506N",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "lgiordano@studenti.apuliadigitalmaker.it",
+    "descrizione": "Se si ha qualche difficoltà a ricordare chi è Lorenzo Giordano, è sufficiente pensare che è \"quello con la voce squillante\" e sparisce ogni dubbio. Vanta più presenze in pausa che in classe, ma la sua presenza mette sempre il buonumore.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/giordano.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Sussurro a bassa voce",
+        "valore": -20
+      },
+      {
+        "nome": "Impegno nascosto",
+        "valore": 20
+      }
+    ]
+  },
+  {
+    "id": "1725",
+    "cognome": "MACAGNINO",
+    "nome": "RICCARDO",
+    "comuneNascita": "TRICASE",
+    "provinciaNascita": "LE",
+    "dataNascita": "08/09/01",
+    "capResidenza": "73040",
+    "comuneResidenza": "MELISSANO",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Salvator Rosa, 107",
+    "email": "macagninoriccardo85@gmail.com",
+    "cellulare": "334/3706616",
+    "codiceFiscale": "MCGRCR01P08L419K",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo professionale alberghiero/per i servizi alberghieri e della ristorazione",
+    "emailCorso": "rmacagnino@studenti.apuliadigitalmaker.it",
+    "descrizione": "Frequenta l'ITS solo per copertura e lo sappiamo tutti, perché tra la 'Banda del buco' e il giro di affitti che ha a Torre San Giovanni potrebbe tranquillamente vivere di rendita. Eppure è sempre sul pezzo ed è affamato di informazioni.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/macagnino.png?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Informazione",
+        "valore": -10
+      },
+      {
+        "nome": "Colpo all'Eurospin",
+        "valore": 100
+      },
+      {
+        "nome": "Bronchite",
+        "valore": -50
+      },
+      {
+        "nome": "Copilot",
+        "valore": -20
+      },
+      {
+        "nome": "Affitto appartamento",
+        "valore": 60
+      }
+    ]
+  },
+  {
+    "id": "1726",
+    "cognome": "MAGINI",
+    "nome": "MANUEL",
+    "comuneNascita": "ROMA",
+    "provinciaNascita": "RM",
+    "dataNascita": "10/03/90",
+    "capResidenza": "40135",
+    "comuneResidenza": "BOLOGNA",
+    "provinciaResidenza": "BO",
+    "indirizzoResidenza": "VIA treves, 2",
+    "email": "magini15@gmail.com",
+    "cellulare": "329/4057518",
+    "codiceFiscale": "MGNMNL90C10H501F",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "mmagini@studenti.apuliadigitalmaker.it",
+    "descrizione": "Passare da Angular a React non è stato un gioco da ragazzi, ma da oggi può aggiungere nuove skills alla sua già ricca Vetrina Informatica. Ha già conoscenze nel giro delle community e chissà, magari da domani sarà il nostro nuovo datore di lavoro.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/magini.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Vetrina informatica",
+        "valore": 50
+      },
+      {
+        "nome": "GDG Lecce",
+        "valore": 30
+      }
+    ]
+  },
+  {
+    "id": "1727",
+    "cognome": "MANCINI",
+    "nome": "ILARIO GABRIELE",
+    "comuneNascita": "BARI",
+    "provinciaNascita": "BA",
+    "dataNascita": "20/05/99",
+    "capResidenza": "73013",
+    "comuneResidenza": "GALATINA",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Campobasso, 16",
+    "email": "ilariomancini99@gmail.com",
+    "cellulare": "320/6365292",
+    "codiceFiscale": "MNCLGB99E20A662B",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "imancini@studenti.apuliadigitalmaker.it",
+    "descrizione": "Ha abbandonato le desolate terre di Casamassima per dedicare tutto se stesso all'ITS. In aula dimostra di essere uno dei più tranquilli, ma sembrerebbero esserci molti colleghi pronti a vestire i panni da Fabrizio Corona per smentire la sua apparente tranquillità.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/mancini.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Fuga da casa",
+        "valore": -20
+      },
+      {
+        "nome": "Balletto nel pullman",
+        "valore": 40
+      }
+    ]
+  },
+  {
+    "id": "1729",
+    "cognome": "MAZZEO",
+    "nome": "JACOPO",
+    "comuneNascita": "LECCE",
+    "provinciaNascita": "LE",
+    "dataNascita": "31/03/04",
+    "capResidenza": "73100",
+    "comuneResidenza": "LECCE",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA Archimede, 39",
+    "email": "jacopo.mazzeo12@gmail.com",
+    "cellulare": "371/6599764",
+    "codiceFiscale": "MZZJCP04C31E506K",
+    "titoloStudio": "Diploma di istruzione secondaria superiore di Istituto magistrale",
+    "emailCorso": "jmazzeo@studenti.apuliadigitalmaker.it",
+    "descrizione": "Leccese di Lecce Lecce, adora spostarsi in macchina alla ricerca di un parcheggio che troverà solo a Frigole, dove passerà la nottata a fare soldi in compagnia dei suoi amici; purtroppo però sono i soldi finti del Monopoly.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/mazzeo.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Vittoria a Monopoly",
+        "valore": 100
+      },
+      {
+        "nome": "Bancarotta a Monopoly",
+        "valore": -100
+      },
+      {
+        "nome": "Ricerca del parcheggio",
+        "valore": -20
+      }
+    ]
+  },
+  {
+    "id": "2145",
+    "cognome": "MILELLI",
+    "nome": "GABRIELE",
+    "comuneNascita": "LECCE",
+    "provinciaNascita": "LE",
+    "dataNascita": "31/01/04",
+    "capResidenza": "73055",
+    "comuneResidenza": "RACALE",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA Dora Baltea,32",
+    "email": "tighery380@gmail.com",
+    "cellulare": "324/6347793",
+    "codiceFiscale": "MLLGRL04A31E506V",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "gmilelli@studenti.apuliadigitalmaker.it",
+    "descrizione": "La sua unica apparizione al corso è stata il primo giorno. Dicono che abbia preso male il fatto che anche il docente fosse di Racale, così ha deciso di abbandonare. Ma forse in realtà non è mai realmente esistito.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/milelli.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Invisibilità",
+        "valore": 10
+      }
+    ]
+  },
+  {
+    "id": "1730",
+    "cognome": "MINERVA",
+    "nome": "ANDREA",
+    "comuneNascita": "TRICASE",
+    "provinciaNascita": "LE",
+    "dataNascita": "16/06/90",
+    "capResidenza": "73039",
+    "comuneResidenza": "TRICASE",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA varisco , 5",
+    "email": "andrea.minerva90@libero.it",
+    "cellulare": "328/9003073",
+    "codiceFiscale": "MNRNDR90H16L419Q",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo professionale alberghiero/per i servizi alberghieri e della ristorazione",
+    "emailCorso": "aminerva@studenti.apuliadigitalmaker.it",
+    "descrizione": "Tricasino DOC e responsabile della gestione di diversi bar, oltre che del gruppo Discord. A proposito, di Andrea Minerva se ne sono visti veramente parecchi su quel gruppo, ma di originale, quello sempre fedele e presente, ce n'è solo uno.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/minerva.jpg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Spritz",
+        "valore": 20
+      },
+      {
+        "nome": "A ci me ne vo",
+        "valore": -20
+      },
+      {
+        "nome": "Riserva",
+        "valore": -30
+      },
+      {
+        "nome": "Fedeltà",
+        "valore": 70
+      }
+    ]
+  },
+  {
+    "id": "1731",
+    "cognome": "PALLADINO",
+    "nome": "GABRIELE PIO",
+    "comuneNascita": "SAN GIOVANNI ROTONDO",
+    "provinciaNascita": "FG",
+    "dataNascita": "28/12/05",
+    "capResidenza": "73100",
+    "comuneResidenza": "LECCE",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Cavalcanti Guido , 21c",
+    "email": "gp727147@gmail.com",
+    "cellulare": "393/6956609",
+    "codiceFiscale": "PLLGRL05T28H926Z",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "gpalladino@studenti.apuliadigitalmaker.it",
+    "descrizione": "Mi serve un testo placeholder per un corsista placeholder del quale ho solo una foto placeholder. Ah va bene questo? Ok manteniamo questo.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/palladino.jpg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Placeholder",
+        "valore": 0
+      }
+    ]
+  },
+  {
+    "id": "1732",
+    "cognome": "PREITE",
+    "nome": "NICOLA ANTONIO",
+    "comuneNascita": "GERMANIA",
+    "provinciaNascita": "EE",
+    "dataNascita": "26/01/00",
+    "capResidenza": "73100",
+    "comuneResidenza": "LECCE",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA benedetto croce, 8",
+    "email": "nicola.preite@libero.it",
+    "cellulare": "324/6940463",
+    "codiceFiscale": "PRTNLN00A26Z112K",
+    "titoloStudio": "Altre lauree specialistiche/magistrali a ciclo unico",
+    "emailCorso": "npreite@studenti.apuliadigitalmaker.it",
+    "descrizione": "Le sue nobili origini germaniche si notano subito il primo giorno, quando dimostra la sua superiorità conseguendo un risultato schiacciante nel quiz. Le sue esercitazioni vanno tranquillamente in porto.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/preite.jpg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Quiz",
+        "valore": 21
+      },
+      {
+        "nome": "Tranquillità",
+        "valore": 30
+      }
+    ]
+  },
+  {
+    "id": "1733",
+    "cognome": "RISO",
+    "nome": "MARTINO",
+    "comuneNascita": "GAGLIANO DEL CAPO",
+    "provinciaNascita": "LE",
+    "dataNascita": "26/04/01",
+    "capResidenza": "73033",
+    "comuneResidenza": "CORSANO",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA GIORDANO, 29",
+    "email": "risomartino@gmail.com",
+    "cellulare": "347/3214572",
+    "codiceFiscale": "RSIMTN01D26D851H",
+    "titoloStudio": "Diploma di istruzione secondaria superiore di Liceo scientifico",
+    "emailCorso": "mriso@studenti.apuliadigitalmaker.it",
+    "descrizione": "Di lui si sa soltanto che vive a Corsano. Si è fatto vedere il primo giorno del corso, ma i problemi alla macchina gli hanno impedito di essere presente nella restante parte del corso. Sfortunato.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/riso.png?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Meccanico",
+        "valore": -30
+      }
+    ]
+  },
+  {
+    "id": "1735",
+    "cognome": "RUSSO",
+    "nome": "JACOPO",
+    "comuneNascita": "GALATINA",
+    "provinciaNascita": "LE",
+    "dataNascita": "28/11/05",
+    "capResidenza": "73010",
+    "comuneResidenza": "SOLETO",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA Leonardo Sciascia, 7",
+    "email": "jacoporusso2811@gmail.com",
+    "cellulare": "389/5097936",
+    "codiceFiscale": "RSSJCP05S28D862J",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo professionale per il commercio/servizi commerciali, turismo e pubblicita'",
+    "emailCorso": "jrusso@studenti.apuliadigitalmaker.it",
+    "descrizione": "Aveva il primato da \"più giovane del corso\" prima del saltuario rientro di Brindisino. Si fida del suo PC personale, ma per eseguire l'app sul suo telefono deve per forza impostare il --tunnel. Squadrone 2005 insieme a Flavio.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/russo.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Tunnel",
+        "valore": -10
+      },
+      {
+        "nome": "Forza della gioventù",
+        "valore": 50
+      }
+    ]
+  },
+  {
+    "id": "1736",
+    "cognome": "SABETTA",
+    "nome": "ENNIO",
+    "comuneNascita": "BRINDISI",
+    "provinciaNascita": "BR",
+    "dataNascita": "12/05/86",
+    "capResidenza": "73026",
+    "comuneResidenza": "MELENDUGNO",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Totò Principe De Curtis, 4",
+    "email": "ennio.sabetta@gmail.com",
+    "cellulare": "320/8713183",
+    "codiceFiscale": "SBTNNE86E12B180K",
+    "titoloStudio": "Diploma di istruzione secondaria superiore di Liceo linguistico",
+    "emailCorso": "esabetta@studenti.apuliadigitalmaker.it",
+    "descrizione": "Colonna portante del Vernazza e nostalgico del retrocomputing, vive il mondo delle community portandosi a casa anche il robottino Android mini collectible messo in palio dal GDG di Lecce. Fedele fino alla fine.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/sabetta.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Fedeltà",
+        "valore": 30
+      },
+      {
+        "nome": "Robot Android",
+        "valore": 60
+      },
+      {
+        "nome": "Nostalgia",
+        "valore": -20
+      }
+    ]
+  },
+  {
+    "id": "1737",
+    "cognome": "SANTORO ARAMINI",
+    "nome": "MARCO",
+    "comuneNascita": "TRICASE",
+    "provinciaNascita": "LE",
+    "dataNascita": "26/02/03",
+    "capResidenza": "73049",
+    "comuneResidenza": "RUFFANO",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Firenze, 29",
+    "email": "marcoqwerty321@gmail.com",
+    "cellulare": "327/6929188",
+    "codiceFiscale": "SNTMRC03B26L419U",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "msantoroaramini@studenti.apuliadigitalmaker.it",
+    "descrizione": "No, non è un'isola greca, ma il cognome simpaticamente composto di un ragazzo che frequenta l'ITS. È collegato regolarmente su Discord, ma anziché seguire le lezioni, si gode le streammate dei suoi amici.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/santoro.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Discord",
+        "valore": -30
+      },
+      {
+        "nome": "Vacanza nel mar Egeo",
+        "valore": 20
+      }
+    ]
+  },
+  {
+    "id": "1740",
+    "cognome": "STINCONE",
+    "nome": "FLAVIO",
+    "comuneNascita": "SCORRANO",
+    "provinciaNascita": "LE",
+    "dataNascita": "13/10/05",
+    "capResidenza": "73020",
+    "comuneResidenza": "NOCIGLIA",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Cassino, 71",
+    "email": "flaviostincone711@gmail.com",
+    "cellulare": "342/3100847",
+    "codiceFiscale": "STNFLV05R13I549T",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo professionale per il commercio/servizi commerciali, turismo e pubblicita'",
+    "emailCorso": "fstincone@studenti.apuliadigitalmaker.it",
+    "descrizione": "Il caposquadra di \"quelli del 2005 di dietro\", dimostra più anni di quelli che ha, ma solo perché è una bestia col codice. Coraggioso nel provare a guidare la classe durante la difficile simulazione pre-esame del Pokedex.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/stincone.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Guida",
+        "valore": 50
+      },
+      {
+        "nome": "Docenza",
+        "valore": -10
+      }
+    ]
+  },
+  {
+    "id": "1741",
+    "cognome": "TERRIZZI",
+    "nome": "MARCO",
+    "comuneNascita": "MILANO",
+    "provinciaNascita": "MI",
+    "dataNascita": "14/08/98",
+    "capResidenza": "73038",
+    "comuneResidenza": "SPONGANO",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "Estramurale 72, 72",
+    "email": "marcoterrizzi@gmail.com",
+    "cellulare": "320/2594737",
+    "codiceFiscale": "TRRMRC98M14F205L",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico commerciale",
+    "emailCorso": "mterrizzi@studenti.apuliadigitalmaker.it",
+    "descrizione": "Altro fedelissimo della classe, di quelli per cui vale la pena essere presenti ogni giorno al Vernazza. Si cimenta con impegno in ogni esercitazione, anche dopo l'abbronzatura forzata rimediata alla Fiera del Levante.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/terrizzi.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Fedeltà",
+        "valore": 30
+      },
+      {
+        "nome": "Scottatura",
+        "valore": -20
+      }
+    ]
+  },
+  {
+    "id": "2250",
+    "cognome": "TONDO",
+    "nome": "SIMONE",
+    "comuneNascita": "NARDO'",
+    "provinciaNascita": "LE",
+    "dataNascita": "10/06/00",
+    "capResidenza": "73044",
+    "comuneResidenza": "GALATONE",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA STRADA FIUME 8,A",
+    "email": "tr.siminetondo@gmail.com",
+    "cellulare": "329/7166198",
+    "codiceFiscale": "TNDSMN00H10F842G",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico industriale",
+    "emailCorso": "stondo@studenti.apuliadigitalmaker.it",
+    "descrizione": "Quello palestrato di Nardò (1 punto in più), ha vecchi amici d'arte del Vernazza (1 punto in più), ma sopratutto lavora con un Mac dove tutto funziona semplicemente bene al primo tentativo (1 punto in più).",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/tondo.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Nardò",
+        "valore": 10
+      },
+      {
+        "nome": "Raccomandazione",
+        "valore": 10
+      },
+      {
+        "nome": "Mac",
+        "valore": 60
+      }
+    ]
+  },
+  {
+    "id": "1963",
+    "cognome": "TUNDO",
+    "nome": "JACOPO",
+    "comuneNascita": "LECCE",
+    "provinciaNascita": "LE",
+    "dataNascita": "27/10/02",
+    "capResidenza": "73013",
+    "comuneResidenza": "GALATINA",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA UDINE, 24",
+    "email": "jacopotundo@gmail.com",
+    "cellulare": "333/2658615",
+    "codiceFiscale": "TNDJCP02R27E506V",
+    "titoloStudio": "",
+    "emailCorso": "jtundo@studenti.apuliadigitalmaker.it",
+    "descrizione": "Ha perso il quiz per un soffio, anzi per 1 punto. Lo stesso punto che giocosamente continua a perdere lezione dopo lezione. Grande impegno e determinazione, misto rabbia, lo portano a spingersi sempre oltre ad ogni esercitazione.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/tundo.png?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Meno 1 punto",
+        "valore": -1
+      },
+      {
+        "nome": "Rabbia",
+        "valore": -10
+      },
+      {
+        "nome": "Ostinazione",
+        "valore": 50
+      }
+    ]
+  },
+  {
+    "id": "2155",
+    "cognome": "ZACHEO",
+    "nome": "LUCA",
+    "comuneNascita": "SCORRANO",
+    "provinciaNascita": "LE",
+    "dataNascita": "30/09/05",
+    "capResidenza": "73038",
+    "comuneResidenza": "SPONGANO",
+    "provinciaResidenza": "LE",
+    "indirizzoResidenza": "VIA San Leonardo, 101",
+    "email": "lucazacheo068@gmail.com",
+    "cellulare": "340/7133419",
+    "codiceFiscale": "ZCHLCU05P30I549H",
+    "titoloStudio": "Diploma di istruzione secondaria superiore ad indirizzo tecnico industriale",
+    "emailCorso": "lzacheo1@studenti.apuliadigitalmaker.it",
+    "descrizione": "Voci poco affidabili narrano che sia stato operato ad un occhio, motivo per cui ha perso le prime lezioni in presenza. Ormai abituato al dolore, affonta anche React Native e prova fino all'ultimo giorno a capirci qualcosa.",
+    "foto": "https://github.com/alemarra89/its2426/blob/main/foto/zacheo.jpeg?raw=true",
+    "caratteristiche": [
+      {
+        "nome": "Vista acuta",
+        "valore": -20
+      },
+      {
+        "nome": "Temerarietà",
+        "valore": 30
+      }
+    ]
+  }
+]
